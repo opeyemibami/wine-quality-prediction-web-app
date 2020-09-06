@@ -4,3 +4,5 @@
 - web application built with Streamlit 
 - Application Hosted on Heroku 
 All the dependences can be found in the requirements.txt 
+
+App link: https://wine-quality-web-app.herokuapp.com/
